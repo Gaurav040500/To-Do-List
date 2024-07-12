@@ -1,0 +1,54 @@
+
+
+.container {
+  <!-- max-width: 600px; -->
+  margin:  0 auto;
+  padding: 40px;
+  background-color: #A18AFF	;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(1, 1, 0, 1);
+  <!-- align-items:center; -->
+F
+}
+
+<!-- .inputContainer{
+align-items: center;
+  max-width: 600px;
+
+} -->
+
+h1.header{
+  font color: white;
+}
+
+.todoItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #FAF9F6;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  margin-top:20px;
+}
+.editButton{
+  margin-right:4px;
+  border-radius:5px;
+  <!-- padding: auto -->
+  hover:
+}
+.deleteButton{
+  margin-right:4px;
+  border-radius:5px;
+}
+.editButton:hover {
+  background-color: violet;
+  color: skyblue;
+}
+.deleteButton:hover {
+  background-color: violet;
+  color: skyblue;
+}
+
+
